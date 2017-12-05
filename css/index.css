@@ -1,0 +1,26 @@
+body{
+	font-family: Ariel;
+	color:#989898;
+}
+
+	li{
+		font-weight:bold;
+		font-size:16px !important;
+		color:#AABBCC;
+	}
+
+	li{
+		font-size:12px;
+	}
+
+	#active {
+		color:#00FF00;
+	}
+
+	li.finished {
+		color:#0000ff;
+	}
+
+	#finished li{
+		color:#0000FF;
+	}
